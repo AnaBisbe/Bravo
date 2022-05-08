@@ -17,7 +17,7 @@ const locale: Locale = {
         [_.aggregatedTableName]: "Múltiples tablas",
         [_.AnalyzeModel]: "Analizar Modelo",
         [_.analyzeModelSummary]: `Su conjunto de datos tiene <strong>{size:bytes}</strong> de largo y contiene <strong>{count}</strong> columna{{s}}`,
-        [_.analyzeModelSummary2]: `, <span class=text-highlight><strong>{count}</strong>  de los cuales no {{están|está}} referenciados en el modelo.</span>`,
+        [_.analyzeModelSummary2]: `, <span class=text-highlight><strong>{count}</strong>  de las cuales no {{están|está}} referenciadas en el modelo.</span>`,
         [_.appName]: "Bravo for Power BI", // DO NOT TRANSLATE
         [_.appUpdateAvailable]: "Nueva versión disponible: {version}",
         [_.appUpdateChangelog]: "Registro de cambios",
@@ -159,7 +159,7 @@ const locale: Locale = {
         [_.exportDataOptions]: "Opciones de exportación",
         [_.exportDataStartExporting]: "Iniciando...",
         [_.exportDataSuccessSceneMessage]: "<strong>{count}/{total} tabla{{s}}</strong> {{fueron|fue}} exportada/s con éxito..",
-        [_.exportDataSummary]: "Su conjunto de datos contiene<strong>{count} tabla{{s}}</strong> que pueden ser exportadas.",
+        [_.exportDataSummary]: "Su conjunto de datos contiene <strong>{count} tabla{{s}}</strong> que pueden ser exportadas.",
         [_.exportDataTypeCSV]: "CSV (valores separados por comas)",
         [_.exportDataTypeXLSX]: "Hoja de cálculo Excel",
         [_.failed]: "Fallido",
